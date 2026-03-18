@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   apps: [
     // 1. Current Centralized AI Server (Node.js)
     {
